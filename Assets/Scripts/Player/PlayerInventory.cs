@@ -14,6 +14,7 @@ public class PlayerInventory : MonoBehaviour
     {
         moneyCollection++;
         onMoneyCollected.Invoke(this);
+        SpawnerNpc.instance.SpawnCharacters(3);
     }
 
     public void MoneySpent()

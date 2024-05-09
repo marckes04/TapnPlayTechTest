@@ -10705,12 +10705,12 @@ GameObject:
   - component: {fileID: 1538265563}
   - component: {fileID: 1538265562}
   m_Layer: 0
-  m_Name: Cube
-  m_TagString: Untagged
+  m_Name: Reception
+  m_TagString: Reception
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1538265562
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10739,7 +10739,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1538265561}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -10791,7 +10791,7 @@ Transform:
   m_GameObject: {fileID: 1538265561}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.95, y: 0.578, z: -6.92}
+  m_LocalPosition: {x: 0.15, y: 1.84, z: -7.15}
   m_LocalScale: {x: 2, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11543,7 +11543,7 @@ Transform:
   m_GameObject: {fileID: 1665362473}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.78, z: -29.572}
+  m_LocalPosition: {x: 0, y: 0.78, z: -29.13}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
